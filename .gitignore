@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Machine Learning Models (Exceed GitHub 100MB Limit)
+outputs/models/*.joblib
