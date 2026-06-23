@@ -2,11 +2,6 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
-![XGBoost](https://img.shields.io/badge/XGBoost-1.7%2B-orange?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-3.3%2B-green?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2%2B-F7931E?style=for-the-badge&logo=scikit-learn)
-![SHAP](https://img.shields.io/badge/SHAP-Explainability-purple?style=for-the-badge)
 
 **A production-ready ML system for fashion retail demand planning and inventory optimization**
 
@@ -87,6 +82,8 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+### 3. Run 
 
 This will automatically:
 1. Generate a synthetic sales dataset (50 stores, 2013–2015)
