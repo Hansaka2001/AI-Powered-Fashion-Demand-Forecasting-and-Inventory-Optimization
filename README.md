@@ -83,7 +83,12 @@ pip install -r requirements.txt
 python main.py
 ```
 
-### 3. Run 
+### 3. Run the ui 
+
+```bash
+streamlit run app.py
+```
+
 
 This will automatically:
 1. Generate a synthetic sales dataset (50 stores, 2013–2015)
